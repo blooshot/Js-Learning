@@ -1,2 +1,2 @@
-# test_project
+# Test Projects
 Just a testing
